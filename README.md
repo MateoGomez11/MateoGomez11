@@ -25,9 +25,16 @@
 <a href="mailto:mateogomezp11@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-
 -------------------
+
+## 📚 Academic Projects
+- [Restaurant backend](https://github.com/MateoGomez11/restaurant_backend) – First backend/API project using Node.js
+- [Store Management App (Java + Spring)](https://github.com/MateoGomez11/manageStore) – First backend/API project using linked lists, Doubly linked list and Spring Boot.
+- [LED exercise](https://github.com/MateoGomez11/leds) – Implementations of doubly linked lists with Spring boot.
+
+## 🚀 Personal Projects
+- [Contacts managment backend](https://github.com/tuusuario/personal-ecommerce) – RESTful API built with Node.js, Express, and MongoDB
+
 <!--
 **MateoGomez11/MateoGomez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
