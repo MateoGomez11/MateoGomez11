@@ -33,7 +33,7 @@
 - [LED exercise](https://github.com/MateoGomez11/leds) – Implementations of doubly linked lists with Spring boot.
 
 ## 🚀 Personal Projects
-- [Contacts managment backend]([https://github.com/tuusuario/personal-ecommerce](https://github.com/MateoGomez11/contacts-backend/tree/main)) – RESTful API built with Node.js, Express, and MongoDB
+- [Contacts managment backend](https://github.com/MateoGomez11/contacts-backend) – RESTful API built with Node.js, Express, and MongoDB
 
 <!--
 **MateoGomez11/MateoGomez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
