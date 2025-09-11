@@ -25,6 +25,7 @@
 
 ## 🚀 Personal Projects
 - [Contacts managment backend](https://github.com/MateoGomez11/contacts-backend) – RESTful API built with Node.js, Express, and MongoDB
+- [Mini e-commerce](https://github.com/MateoGomez11/shopingCart) - SOON
 
 
 -------------------
