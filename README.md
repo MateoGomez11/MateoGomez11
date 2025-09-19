@@ -20,11 +20,13 @@
 
 ## 📚 Academic Projects
 - [Restaurant backend](https://github.com/MateoGomez11/restaurant_backend) – First backend/API project using Node.js
+- 
 - [Store Management App (Java + Spring)](https://github.com/MateoGomez11/manageStore) – First backend/API project using linked lists, Doubly linked list and Spring Boot.
 - [LED exercise](https://github.com/MateoGomez11/leds) – Implementations of doubly linked lists with Spring boot.
 
 ## 🚀 Personal Projects
 - [Contacts managment backend](https://github.com/MateoGomez11/contacts-backend) – RESTful API built with Node.js, Express, and MongoDB
+- [Project Managment fullstack](https://github.com/MateoGomez11/projectManagment_FullStack) – Full stack app with Node.js, Express, Prisma ORM, PostgreSQL and React + Tailwind CSS + Recharts
 - [Mini e-commerce](https://github.com/MateoGomez11/shopingCart) - SOON
 
 
